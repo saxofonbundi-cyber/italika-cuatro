@@ -8,7 +8,7 @@ if (!isset($_SESSION['autenticado']) || $_SESSION['autenticado'] !== true) {
 $host = 'localhost';
 $db = 'italikacuatro';
 $user = 'dev_user';
-$pass = 'DesarrolloItalika2026!';
+$pass = 'Devuser*2026';
 $charset = 'utf8mb4';
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 
