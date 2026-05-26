@@ -248,7 +248,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="login-container">
         <div class="login-brand">
             <h1>ITALIKA<span>.</span></h1>
-            <p>Portal Administrativo Interno</p>
+            <p>Portal Admin Daniel</p>
         </div>
 
         <?php if(!empty($mensaje_error)): ?>
